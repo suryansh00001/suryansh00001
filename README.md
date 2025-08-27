@@ -88,10 +88,8 @@
 ---
 
 ### ⚡ **Neural Activity Monitor**
+![GitHub Contribution Snake](https://raw.githubusercontent.com/suryansh00001/suryansh00001/output/github-contribution-grid-snake-dark.svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 > _“Every green dot is a neuron firing… or a bug dying.”_ 🐛
 
