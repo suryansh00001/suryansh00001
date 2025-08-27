@@ -59,20 +59,21 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
   <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
   <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=13B0E5" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458" />
 </p>
 
-#### **🧠 Tools & Platforms**
+#### **☁ Platforms & DevOps**
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-0D1117?style=for-the-badge&logo=web3dotjs&logoColor=06D6A0" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
-
----
 
 ---
 
@@ -83,8 +84,6 @@
   <img src="https://streak-stats.demolab.com?user=suryansh00001&theme=tokyonight&hide_border=true&background=0f172a&currStreakLabel=06d6a0&sideLabels=06d6a0&ring=06d6a0&fire=06d6a0" height="180"/>
 </p>
 
-
-
 ---
 
 ## ⚡ **System Uptime — Live Activity Feed**
@@ -94,8 +93,6 @@
 </p>
 
 ---
-
-
 
 > _“Every green dot is a neuron firing… or a bug dying.”_ 🐛
 
