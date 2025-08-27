@@ -74,21 +74,27 @@
 
 ---
 
-### 📊 **GitHub Reality Check**
+---
+
+## 🕶️ **Cyber Neural Matrix**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryansh00001&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=suryansh00001&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suryansh00001&show_icons=true&bg_color=0f172a&title_color=06d6a0&text_color=94a3b8&icon_color=06d6a0&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=suryansh00001&theme=tokyonight&hide_border=true&background=0f172a&currStreakLabel=06d6a0&sideLabels=06d6a0&ring=06d6a0&fire=06d6a0" height="180"/>
 </p>
 
+
+
+---
+
+## ⚡ **System Uptime — Live Activity Feed**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh00001&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://ghchart.rshah.org/06d6a0/suryansh00001" alt="Suryansh's GitHub chart" height="160"/>
 </p>
 
 ---
 
-### ⚡ **Neural Activity Monitor**
-![GitHub Contribution Snake](https://raw.githubusercontent.com/suryansh00001/suryansh00001/output/github-contribution-grid-snake-dark.svg)
 
 
 > _“Every green dot is a neuron firing… or a bug dying.”_ 🐛
