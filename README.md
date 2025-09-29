@@ -86,23 +86,6 @@
 
 ---
 
-## ⚡ **System Uptime — Live Activity Feed**
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/06d6a0/suryansh00001" alt="Suryansh's GitHub chart" height="160"/>
-</p>
-
----
-
-> _“Every green dot is a neuron firing… or a bug dying.”_ 🐛
-
----
-
-### 🎭 **Exit Log**
-> “Training models. Breaking frameworks.  
-> Surveying chaos.  
-> **Deploying disruption…**”
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=06d6a0&section=footer"/>
 </p>
