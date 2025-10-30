@@ -1,91 +1,79 @@
-<!-- CYBERPUNK HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=06d6a0&text=Suryansh%20Garg&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=35" width="100%"/>
+<h1 align="center">Hi 👋, I'm Suryansh Garg</h1>
+<p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="coding animation"></p>
 
-<!-- GLITCHY INTRO -->
-<h1 align="center">⚡ Access Granted ⚡</h1>
-<h3 align="center">👾 Innovator | Code Alchemist | Digital Mischief Engineer 👾</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4000&pause=1000&color=06D6A0&center=true&vCenter=true&width=650&lines=$%3E+Booting+Up+Suryansh's+Neural+Core...;Loading+Deep+Learning+Modules+%5B███████%5D+100%25;Experimenting+with+Machine+Learning+Models...;Breaking+Web+Dev+Frameworks+for+Fun;Deploying+Chaos+Since+Day+Zero">
-</p>
+# 💫 About Me:
+I’m a developer who blends **AI precision** with **cyberpunk creativity**.  
+Currently exploring **AI/ML**, **Web3**, **Blockchain**, and **Cybersecurity**, building things that merge **logic, design, and a bit of chaos**.
 
----
+- ⚙️ Core Strengths: **AI**, **ML**, **Full Stack Web**, **CyberSec**, **System Architecture**  
+- 💻 Building futuristic **UI/UX** with **React + Tailwind**  
+- 🧠 Researching **AI-driven cost optimization, Re-ID models & adversarial robustness**  
+- ⚡ Motto: *If it’s not broken, break it and rebuild it better.*
 
-### 🌐 **Connect with Me**
-<p align="center">
-  <a href="https://github.com/suryansh00001">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=06D6A0" />
-  </a>
-  <a href="https://www.linkedin.com/in/suryansh00001">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/suryansh00001">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
-  <a href="https://codeforces.com/profile/suryanshg371">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
+🌐 **Portfolio:** [suryanshgarg.vercel.app](https://suryanshgarg.vercel.app)  
+📫 **Reach me:** [suryanshg371@gmail.com](mailto:suryanshg371@gmail.com)
 
----
+![](https://komarev.com/ghpvc/?username=suryansh00001&color=06d6a0&label=Visitors)
 
-### 🕶️ **Who Am I?**
-> “I don't just write code…  
-> I **train machines to think** and **bend systems to my will**.”
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🧠 Exploring **Deep Learning** & **Machine Learning** — training models that occasionally **behave better than humans**  
-- 🌐 Crafting **web experiences** with a **cyberpunk vibe**  
-- 🧩 Conducted **survey reports** on tech adoption & system behaviors  
-- ⚡ Love **breaking things** just to **understand why they worked**  
-- 🎭 My commits are **half innovation, half chaos**  
-- 🕵️ Current status: “**debugging reality**”
+# 📜 Research Publications:
+### 🧩 1. [A Comprehensive Survey on Deep Learning-Based Surveillance Models: Recent Advances and Future Directions (2024–2025)](https://drive.google.com/file/d/1RkK5YzoRfohdHGz6W4g06LGbjETu4YtN/view?usp=sharing)
+A deep survey of AI-based surveillance systems, from CNN-based detection to transformer integration and cross-modal Re-ID frameworks.
 
----
+### ⚙️ 2. [Adversarial Attacks — Vulnerabilities & Defense in Neural Networks](https://drive.google.com/file/d/1a7JkJQF-7qOPfsay34QgntCGVqwZA5Dl/view?usp=sharing)
+Explores adversarial robustness and defense strategies for deep learning systems under real-world noise and attack conditions.
 
-### 🛠 **Weapons of Mass Creation**
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> _“Give me caffeine ☕ and a GPU cluster… and I’ll rewrite reality.”_
+# 🚀 Featured Projects:
 
-#### **🧩 Core Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-</p>
+### 🧠 [Bet AI](https://github.com/suryansh00001/Bet-AI)
+A decentralized **AI-powered prediction market** on **Hedera Hashgraph**, integrating **news sentiment analysis**, **AI-driven confidence models**, and **autonomous on-chain resolution**.
 
-#### **🚀 Frameworks & Libraries**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=13B0E5" />
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458" />
-</p>
+### 💾 [CHIP-8 Emulator](https://github.com/suryansh00001/CHIP-8_CPP)
+A low-level **CHIP-8 emulator** written in C++, implementing opcode parsing, memory management, and rendering — merging retro systems with modern C++ design.
 
-#### **☁ Platforms & DevOps**
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-0D1117?style=for-the-badge&logo=web3dotjs&logoColor=06D6A0" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-</p>
+### 🔐 [GenPas](https://github.com/suryansh00001/genpas)
+An **AI-driven secure password generator** that balances human readability with cryptographic randomness using machine learning.
+
+### 🎨 [Animation Club Website](https://github.com/suryansh00001/Animation-Club)
+Built for the **IIT BHU Animation Club**, featuring a futuristic **React + Tailwind** frontend with glowing effects, interactivity, and modern UI.
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 📫 Connect With Me:
+- 📧 **Email:** [suryanshg371@gmail.com](mailto:suryanshg371@gmail.com)  
+- 🐙 **GitHub:** [suryansh00001](https://github.com/suryansh00001)  
+- 💼 **LinkedIn:** [suryansh00001](https://linkedin.com/in/suryansh00001)  
+- 🧠 **Codeforces:** [suryanshg371](https://codeforces.com/profile/suryanshg371)
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---
-
-## 🕶️ **Cyber Neural Matrix**
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryansh00001&show_icons=true&bg_color=0f172a&title_color=06d6a0&text_color=94a3b8&icon_color=06d6a0&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=suryansh00001&theme=tokyonight&hide_border=true&background=0f172a&currStreakLabel=06d6a0&sideLabels=06d6a0&ring=06d6a0&fire=06d6a0" height="180"/>
+  <i>“Code is art, logic is rhythm, and creation is rebellion.”</i>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=06d6a0&section=footer"/>
-</p>
