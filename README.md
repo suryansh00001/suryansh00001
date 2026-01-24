@@ -118,7 +118,6 @@ Solidity, Blockchain fundamentals, Cybersecurity concepts
 - 📧 Email: **suryanshg371@gmail.com**
 - 🐙 GitHub: https://github.com/suryansh00001
 - 💼 LinkedIn: https://linkedin.com/in/suryansh00001
-- 🧠 Codeforces: https://codeforces.com/profile/suryanshg371
 
 ---
 
