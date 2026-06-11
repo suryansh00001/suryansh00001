@@ -62,12 +62,9 @@ I enjoy working across the stack—from AI models and cybersecurity research to 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+<img height="170" src="https://streak-stats.demolab.com?user=suryansh00001&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suryansh00001&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=suryansh00001&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryansh00001&theme=github-compact&hide_border=true" />
 
 </div>
 
